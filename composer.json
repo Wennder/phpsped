@@ -1,0 +1,11 @@
+{
+    "name": "vita/vitasped",
+    "description": "API para transmissao de documentos do projeto SPED",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Vinicius de Sa",
+            "email": "viniciusss@me.com"
+        }
+    ]
+}
