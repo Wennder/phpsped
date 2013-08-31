@@ -1,6 +1,6 @@
 <?php
 
-namespace Vita\Sped\Common\Source;
+namespace PhpSped\Common\Source;
 
 
 abstract class SourceInterface

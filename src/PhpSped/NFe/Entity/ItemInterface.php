@@ -1,5 +1,5 @@
 <?php
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 
 interface ItemInterface

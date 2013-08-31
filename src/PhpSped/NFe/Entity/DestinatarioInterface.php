@@ -6,7 +6,7 @@
  * Time: 19:21
  */
 
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 
 interface DestinatarioInterface extends PessoaInterface

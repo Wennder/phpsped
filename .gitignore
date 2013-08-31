@@ -1,0 +1,6 @@
+.buildpath
+.project
+.settings/
+vendor/
+autoload.php
+phpunit.xml

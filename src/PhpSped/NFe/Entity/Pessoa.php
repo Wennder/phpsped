@@ -6,7 +6,7 @@
  * Time: 19:17
  */
 
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 
 abstract class Pessoa implements PessoaInterface

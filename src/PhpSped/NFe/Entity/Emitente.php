@@ -6,7 +6,7 @@
  * Time: 19:18
  */
 
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 
 abstract class Emitente extends Pessoa implements EmitenteInterface
@@ -47,4 +47,4 @@ abstract class Emitente extends Pessoa implements EmitenteInterface
     {
         return $this->nomeFantasia;
     }
-} 
+}

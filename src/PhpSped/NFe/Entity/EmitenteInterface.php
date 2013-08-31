@@ -6,7 +6,7 @@
  * Time: 19:36
  */
 
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 
 interface EmitenteInterface extends PessoaInterface

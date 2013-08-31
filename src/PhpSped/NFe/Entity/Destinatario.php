@@ -1,6 +1,6 @@
 <?php
 
-namespace Vita\Sped\NFe\Entity;
+namespace PhpSped\NFe\Entity;
 
 abstract class Destinatario extends Pessoa implements DestinatarioInterface
 {
